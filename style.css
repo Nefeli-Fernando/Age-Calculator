@@ -2,11 +2,11 @@ body{
     margin:0;
     padding:30px;
     font-family:"Montserrat",sans-serif;
-    background: color #f7f7f7;
+    background-color:#0d4d54;
 }
 
 .container{
-    background-color:white;
+    background-color:rgb(255, 252, 241);
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     padding:20px;
     max-width:600px;
@@ -30,7 +30,7 @@ h1{
 
 input{
     padding:8px;
-    border:1px solid #ccc;
+    border:1px solid #b4a2a2;
     border-radius:5px;
     width:100%;
     max-width:300px;
@@ -38,7 +38,7 @@ input{
 
 button{
     background-color:#007bff;
-    color:white;
+    color:rgb(249, 226, 226);
     border:none;
     padding:10px 20px;
     border-radius:5px;
